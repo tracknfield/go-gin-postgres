@@ -1,1 +1,1 @@
-web: go-gin-postgres
+web: track-go
