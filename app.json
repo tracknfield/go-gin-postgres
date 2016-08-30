@@ -1,0 +1,8 @@
+{
+  "name": "Go, Gin, Postgres",
+  "description": "Bench",
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/tracknfield/go-gin-postgres",
+  "website": "http://github.com/tracknfield/go-gin-postgres",
+  "repository": "http://github.com/tracknfield/go-gin-postgres"
+}
